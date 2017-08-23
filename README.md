@@ -23,3 +23,5 @@
 * Choose a role with sufficient privileges to run lambda
 
 * Setup CloudWatch trigger to regularly run lambda
+
+-- Larry.Song@outlook.com
